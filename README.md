@@ -1,5 +1,10 @@
 <h1 align="center">🥰 You already did!</h1>
 <p align="center">Remember the things you already did</p>
+<p align="center">
+  <a href="https://you-already-did.vercel.app" target="_blank">
+    Deploy of the app
+  </a>
+</p>
 
 ## 💡 What is it?
 Website that helps you remember that you're amazing and you've done so many great things! You can't forget that!
